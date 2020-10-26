@@ -4,4 +4,4 @@
 
 # Moved git repo
 
-./Screenshot-Horiseon.png
+[a relative link](Screenshot-Horiseon.png)
