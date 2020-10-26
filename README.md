@@ -1,4 +1,4 @@
-# This is Challlenge Assighnment 1
+# This is Challlenge Assignment 1
 
 # Enclosed are the screenshot and link to application
 
